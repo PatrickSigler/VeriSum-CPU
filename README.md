@@ -50,8 +50,12 @@ The simulation outputs key information:
 Run using ModelSim or any SystemVerilog-compatible simulator.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/fce7ee76-4ba5-4e79-94d1-12bc2c49ce3f)
+![image](https://github.com/user-attachments/assets/3c68ccb7-d2dd-4a8b-99ad-be7d10bc1fce)
+![image](https://github.com/user-attachments/assets/1e4deb68-96f0-4a2b-8d31-c4a8dd13d26a)
 
-(Add waveform screenshots or terminal output of successful test)
+![image](https://github.com/user-attachments/assets/4045c451-34e7-4faa-9dab-09493c373cbf)
+
 
 ## How to Run
 
